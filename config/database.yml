@@ -28,5 +28,5 @@ test:
   database: testproject_test
 
 production:
-  <<: *default
-  database: testproject_production
+  username: gsnomkwnhurqoi, password:bd1a2be71487d408b238ab967ba692b6b32a745ab108c9da40d67ab59a83392d, host:ec2-75-101-138-165.compute-1.amazonaws.com, port:5432, timeout:5000, database:d1ieosf3nrdlhs
+
